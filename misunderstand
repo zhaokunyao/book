@@ -1,0 +1,24 @@
+#  参数设置方面
+## thread_concurrency
+## syn_binlog
+
+
+#  sql 语句方面
+
+## DML
+### count(column) 和 count(*) 的区别
+### group by 
+
+## DDL
+### int(10) 
+### char 和 varchar
+
+# 工具介绍
+## percona toolkit
+
+
+
+
+
+
+
