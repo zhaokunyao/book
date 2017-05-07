@@ -8,6 +8,8 @@
 ## DML
 ### count(column) 和 count(*) 的区别
 ### group by 
+### foreign key
+
 
 ## DDL
 ### int(10) 
