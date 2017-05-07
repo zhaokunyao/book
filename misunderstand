@@ -16,6 +16,7 @@
 ## DDL
 ### int(10) 
 ### char 和 varchar
+### decimal and price
 
 # 工具介绍
 ## percona toolkit
