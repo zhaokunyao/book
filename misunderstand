@@ -17,6 +17,7 @@
 ### int(10) 
 ### char 和 varchar
 ### decimal and price
+### auto_increament after server restart
 
 # 工具介绍
 ## percona toolkit
